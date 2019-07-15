@@ -1,0 +1,4 @@
+name: Explosion
+version: @version@
+main: com.sekwah.explosion.Explosion
+api-version: 1.13
